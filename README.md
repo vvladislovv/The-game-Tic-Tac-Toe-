@@ -8,5 +8,5 @@ I wrote this game for learning and learning the C# programming language.</h2>
 
 # 🎮Screenshots of the game
 
-![image](Image.png)
+![image](/Image.png)
 
