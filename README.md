@@ -1,4 +1,4 @@
-ы
+
 # 🎲The game of Tic Tac Toe 
 <h2>👋 Hello. This is a tic-tac-toe game, the source code was taken from this site.
 
